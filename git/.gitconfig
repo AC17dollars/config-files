@@ -1,0 +1,10 @@
+# change email and signingkey to same email :)
+[user]
+	email = myemail<at>gmail<dot>com
+	name = Abhinav Chalise
+	signingkey = myemail<at>gmail<dot>com
+[init]
+	defaultBranch = main
+
+[commit]
+	gpgsign = true
